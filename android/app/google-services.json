@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "578262389789",
+    "firebase_url": "https://crm-project-e21e8.firebaseio.com",
+    "project_id": "crm-project-e21e8",
+    "storage_bucket": "crm-project-e21e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578262389789:android:38bf4b67dcd71b97",
+        "android_client_info": {
+          "package_name": "com.crm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578262389789-bql97go5gdbgre61pid35ua1nu1cpce1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhbIWuscm0R_L2KiyTKW6MR0S-MImuvMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578262389789-bql97go5gdbgre61pid35ua1nu1cpce1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
