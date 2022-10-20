@@ -15,7 +15,7 @@
     "react-native-google-signin": "^2.0.0",
     "react-native-keyboard-aware-scroll-view": "^0.9.1",
     "react-native-modal-datetime-picker": "^7.5.0",
-    "react-native-reanimated": "^1.2.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-sqlite-storage": "^3.3.11",
     "react-navigation": "^3.12.1",
     "websqlite": "^1.1.0"
